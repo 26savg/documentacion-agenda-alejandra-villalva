@@ -4,6 +4,9 @@ import modelo.javabean.Contacto;
 
 import java.util.ArrayList;
 
+/*
+ * Se ha dado de alta a los metodos privados con interfance para configurar, eliminar o agregar en agenda
+ * */
 public interface AgendaContactoDao {
 
     Boolean altaContacto(Contacto contacto);
