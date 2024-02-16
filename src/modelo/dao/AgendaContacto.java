@@ -4,7 +4,8 @@ import java.util.ArrayList;
 
 import modelo.javabean.Contacto;
 
-public class AgendaContacto {
+public class
+{
     private String nombreAgenda;
     private ArrayList<Contacto> contactos;
     public AgendaContacto(String nombreAgenda, ArrayList<Contacto> contactos) {
